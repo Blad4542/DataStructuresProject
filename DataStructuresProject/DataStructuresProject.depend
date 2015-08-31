@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440649566 source:c:\users\josecarlos\documents\github\datastructuresproject\datastructuresproject\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
